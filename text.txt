@@ -1,3 +1,7 @@
 This is test text.
 	We are from America
-BLALBALBA!
+BLALBALBA! 
+
+- Okay, we are from Asia and we like rice.
+  
+......................................................
